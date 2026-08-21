@@ -3,20 +3,14 @@
 <desc>Detailed flat-style illustration of a person sitting at a desk with dual monitors showing code, a plant, and a coffee cup, in navy and light-blue tones.</desc>
 
 <defs>
-  <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#132a4d"/>
-    <stop offset="100%" stop-color="#0a1526"/>
-  </linearGradient>
   <linearGradient id="screenGrad" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0%" stop-color="#1b3a63"/>
     <stop offset="100%" stop-color="#0f2544"/>
   </linearGradient>
 </defs>
 
-<rect x="10" y="10" width="400" height="460" rx="24" fill="url(#bgGrad)"/>
-
 <!-- floor shadow -->
-<ellipse cx="210" cy="430" rx="150" ry="16" fill="#050b16"/>
+<ellipse cx="210" cy="430" rx="150" ry="16" fill="#050b16" opacity="0.5"/>
 
 <!-- desk -->
 <rect x="70" y="330" width="280" height="16" rx="5" fill="#274a78"/>

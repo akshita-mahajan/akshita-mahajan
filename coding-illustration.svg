@@ -1,0 +1,40 @@
+<svg width="480" height="420" viewBox="0 0 480 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Illustration of a person coding at a desk</title>
+<desc>Flat-style illustration of a person sitting at a desk working on a laptop, with a monitor showing code brackets, in navy and light-blue tones.</desc>
+
+<circle cx="240" cy="210" r="190" fill="#0f172a"/>
+<circle cx="240" cy="210" r="190" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+
+<rect x="120" y="290" width="240" height="14" rx="4" fill="#1e3a5f"/>
+<rect x="140" y="304" width="14" height="60" fill="#1e3a5f"/>
+<rect x="326" y="304" width="14" height="60" fill="#1e3a5f"/>
+
+<rect x="230" y="150" width="120" height="90" rx="6" fill="#12233f" stroke="#93c5fd" stroke-width="1.5"/>
+<rect x="238" y="158" width="104" height="66" rx="2" fill="#0a1526"/>
+<rect x="248" y="168" width="46" height="6" rx="3" fill="#93c5fd"/>
+<rect x="248" y="180" width="70" height="6" rx="3" fill="#3b6ea5"/>
+<rect x="248" y="192" width="58" height="6" rx="3" fill="#93c5fd"/>
+<rect x="248" y="204" width="34" height="6" rx="3" fill="#3b6ea5"/>
+<rect x="278" y="240" width="24" height="10" fill="#1e3a5f"/>
+<rect x="262" y="250" width="56" height="8" rx="3" fill="#1e3a5f"/>
+
+<ellipse cx="160" cy="330" rx="80" ry="12" fill="#0a1526"/>
+
+<path d="M110 330 L110 260 Q110 240 130 240 L170 240 Q190 240 190 260 L190 330 Z" fill="#1e3a5f"/>
+<rect x="128" y="252" width="44" height="60" rx="4" fill="#93c5fd"/>
+
+<circle cx="150" cy="212" r="26" fill="#93c5fd"/>
+<path d="M126 205 Q126 180 150 180 Q174 180 174 205 L174 200 Q150 195 126 200 Z" fill="#12233f"/>
+
+<rect x="118" y="298" width="64" height="10" rx="3" fill="#12233f"/>
+<circle cx="130" cy="303" r="6" fill="#3b6ea5"/>
+<circle cx="145" cy="303" r="6" fill="#3b6ea5"/>
+<circle cx="160" cy="303" r="6" fill="#3b6ea5"/>
+<circle cx="175" cy="303" r="6" fill="#3b6ea5"/>
+
+<circle cx="360" cy="90" r="14" fill="none" stroke="#93c5fd" stroke-width="2" opacity="0.5"/>
+<text x="352" y="96" font-family="monospace" font-size="16" fill="#93c5fd" opacity="0.7">&lt;/&gt;</text>
+<circle cx="90" cy="110" r="5" fill="#93c5fd" opacity="0.5"/>
+<circle cx="400" cy="230" r="4" fill="#93c5fd" opacity="0.4"/>
+<circle cx="70" cy="230" r="3" fill="#93c5fd" opacity="0.4"/>
+</svg>

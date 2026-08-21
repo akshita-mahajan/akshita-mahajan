@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=180&text=Akshita%20Mahajan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20AI%2FML&descAlignY=62&descSize=16&descColor=93c5fd)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Akshita%20Mahajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20AI%2FML&descAlignY=55&descSize=16&descColor=93c5fd)
+
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=93C5FD&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+the+MERN+stack;Sharpening+DSA%2C+one+problem+at+a+time;Creator+of+BreastCare-AI+%40+IIT+Indore;Open+to+Internship+Opportunities" alt="Typing SVG" /></a>
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-1e3a5f?style=for-the-badge&labelColor=0f172a)
 &nbsp;
@@ -35,37 +37,39 @@ const akshitaMahajan = {
 
 ### 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 #### 🩺 BreastCare-AI
 
 AI-assisted breast cancer screening platform built to digitalize healthcare workflows, developed with IIT Indore.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshita-mahajan&repo=breastcare-ai&theme=nord&border_color=1e3a5f&title_color=1e3a5f&icon_color=1e3a5f" alt="BreastCare-AI Repo Card"/>
-</div>
+![React](https://img.shields.io/badge/React-1e3a5f?style=flat-square&logo=react&logoColor=93c5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e3a5f?style=flat-square&logo=javascript&logoColor=93c5fd)
+![Vercel](https://img.shields.io/badge/Vercel-1e3a5f?style=flat-square&logo=vercel&logoColor=93c5fd)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e3a5f?style=flat-square&logo=mongodb&logoColor=93c5fd)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e3a5f?style=flat-square&logo=postgresql&logoColor=93c5fd)
 
-| Layer | Technology |
-|---|---|
-| Frontend | React, JavaScript, HTML, CSS |
-| Deployment | Vercel |
-| Database | MongoDB / PostgreSQL |
+**[🔗 View Code](https://github.com/akshita-mahajan/breastcare-ai)**
 
-🔗 [Code](https://github.com/akshita-mahajan/breastcare-ai)
+</td>
+<td width="50%" valign="top">
 
 #### 🏢 HR Enterprise
 
 Employee HRMS built to handle and streamline employee management within an organization.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshita-mahajan&repo=HR-Enterprise-&theme=nord&border_color=1e3a5f&title_color=1e3a5f&icon_color=1e3a5f" alt="HR Enterprise Repo Card"/>
-</div>
+![MERN](https://img.shields.io/badge/MERN%20Stack-1e3a5f?style=flat-square&logo=mongodb&logoColor=93c5fd)
+![Express](https://img.shields.io/badge/Express-1e3a5f?style=flat-square&logo=express&logoColor=93c5fd)
+![MySQL](https://img.shields.io/badge/MySQL-1e3a5f?style=flat-square&logo=mysql&logoColor=93c5fd)
+![Vercel](https://img.shields.io/badge/Vercel-1e3a5f?style=flat-square&logo=vercel&logoColor=93c5fd)
 
-| Layer | Technology |
-|---|---|
-| Stack | MERN |
-| Database | MongoDB / MySQL |
-| Deployment | Vercel |
+**[🔗 View Code](https://github.com/akshita-mahajan/HR-Enterprise-)**
 
-🔗 [Code](https://github.com/akshita-mahajan/HR-Enterprise-)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,4 +129,4 @@ Employee HRMS built to handle and streamline employee management within an organ
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0f172a&height=100)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=120&section=footer)

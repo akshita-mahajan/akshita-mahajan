@@ -16,33 +16,9 @@
 
 ### 👩‍💻 Who I Am
 
-<table style="table-layout:fixed; width:100%; border:none; border-collapse:collapse;">
-<tr>
-<td width="50%" valign="middle" style="border:none;">
-
-```typescript
-const akshitaMahajan = {
-  title: "CS Student",
-  stack: {
-    languages: ["Java", "C", "C++", "JavaScript"],
-    web: ["HTML", "CSS", "MERN Stack"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    deployment: ["Vercel"],
-    tools: ["GitHub", "Figma", "Canva"],
-  },
-  launchedProjects: ["BreastCare-AI", "HR Enterprise"],
-  currentlyLearning: ["Full Stack Development", "Data Structures & Algorithms"],
-  status: "Digitalizing healthcare & enterprise workflows, one repo at a time",
-  openTo: "Internship opportunities",
-};
-```
-
-</td>
-<td width="50%" valign="middle" align="center" style="border:none;">
-<img src="assets/coding-illustration.svg" width="100%"/>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/who-i-am.svg" width="100%"/>
+</div>
 
 ---
 

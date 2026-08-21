@@ -39,7 +39,7 @@ const akshitaMahajan = {
 
 </td>
 <td width="35%" align="center">
-<img src="assets/coding-illustration.svg" width="100%"/>
+<img src="coding-illustration.svg" width="260" height="300"/>
 </td>
 </tr>
 </table>

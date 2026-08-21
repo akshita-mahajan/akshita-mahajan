@@ -16,10 +16,6 @@
 
 ### 👩‍💻 Who I Am
 
-<table>
-<tr>
-<td width="50%">
-
 ```typescript
 const akshitaMahajan = {
   title: "CS Student",
@@ -37,12 +33,9 @@ const akshitaMahajan = {
 };
 ```
 
-</td>
-<td width="50%" align="center">
-<img src="assets/coding-illustration.svg" width="480" height="550"/>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/coding-illustration.svg" width="600"/>
+</div>
 
 ---
 

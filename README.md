@@ -16,6 +16,10 @@
 
 ### 👩‍💻 Who I Am
 
+<table>
+<tr>
+<td width="65%">
+
 ```typescript
 const akshitaMahajan = {
   title: "CS Student",
@@ -32,6 +36,13 @@ const akshitaMahajan = {
   openTo: "Internship opportunities",
 };
 ```
+
+</td>
+<td width="35%" align="center">
+<img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 

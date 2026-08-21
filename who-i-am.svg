@@ -1,0 +1,142 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1e3a5f" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1e3a5f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#13233d"/>
+      <stop offset="100%" stop-color="#0c1626"/>
+    </linearGradient>
+    <linearGradient id="monitorFrame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#28496f"/>
+      <stop offset="100%" stop-color="#16294a"/>
+    </linearGradient>
+    <linearGradient id="deskGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a4a73"/>
+      <stop offset="100%" stop-color="#173357"/>
+    </linearGradient>
+    <linearGradient id="chairGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#16294a"/>
+      <stop offset="50%" stop-color="#2c4e79"/>
+      <stop offset="100%" stop-color="#16294a"/>
+    </linearGradient>
+    <linearGradient id="hoodie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f5583"/>
+      <stop offset="100%" stop-color="#1c3757"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ambient glow behind the illustration side, transparent elsewhere so the page's own dark bg shows through -->
+  <ellipse cx="900" cy="300" rx="330" ry="290" fill="url(#glow)"/>
+
+  <!-- ===================== CODE SNIPPET (plain text, no box) ===================== -->
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="19" font-weight="500">
+    <text x="50" y="70"><tspan fill="#ff9d5c">const</tspan><tspan fill="#e6edf3"> akshitaMahajan</tspan><tspan fill="#7d93b2"> = {</tspan></text>
+    <text x="50" y="102"><tspan fill="#79c0ff">  title</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">"CS Student",</tspan></text>
+    <text x="50" y="134"><tspan fill="#79c0ff">  stack</tspan><tspan fill="#7d93b2">: {</tspan></text>
+    <text x="50" y="166"><tspan fill="#79c0ff">    languages</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["Java", "C", "C++", "JavaScript"],</tspan></text>
+    <text x="50" y="198"><tspan fill="#79c0ff">    web</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["HTML", "CSS", "MERN Stack"],</tspan></text>
+    <text x="50" y="230"><tspan fill="#79c0ff">    databases</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["MongoDB", "PostgreSQL", "MySQL"],</tspan></text>
+    <text x="50" y="262"><tspan fill="#79c0ff">    deployment</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["Vercel"],</tspan></text>
+    <text x="50" y="294"><tspan fill="#79c0ff">    tools</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["GitHub", "Figma", "Canva"],</tspan></text>
+    <text x="50" y="326"><tspan fill="#7d93b2">  },</tspan></text>
+    <text x="50" y="358"><tspan fill="#79c0ff">  launchedProjects</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["BreastCare-AI", "HR Enterprise"],</tspan></text>
+    <text x="50" y="390"><tspan fill="#79c0ff">  currentlyLearning</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">["Full Stack Development",</tspan></text>
+    <text x="50" y="416"><tspan fill="#a5d6ff">    "Data Structures &amp; Algorithms"],</tspan></text>
+    <text x="50" y="448"><tspan fill="#79c0ff">  status</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">"Digitalizing healthcare &amp; enterprise</tspan></text>
+    <text x="50" y="474"><tspan fill="#a5d6ff">    workflows, one repo at a time",</tspan></text>
+    <text x="50" y="506"><tspan fill="#79c0ff">  openTo</tspan><tspan fill="#7d93b2">: </tspan><tspan fill="#a5d6ff">"Internship opportunities",</tspan></text>
+    <text x="50" y="538"><tspan fill="#7d93b2">};</tspan></text>
+  </g>
+
+  <!-- ===================== ILLUSTRATION (same visual language, no frame) ===================== -->
+  <g transform="translate(660,90) scale(1.42)">
+    <g opacity="0.5" fill="none" stroke="#93c5fd" stroke-width="2.2" stroke-linecap="round">
+      <path d="M36 46 L25 57 L36 68"/>
+      <path d="M60 46 L71 57 L60 68"/>
+      <path d="M280 44 L269 55 L280 66"/>
+      <path d="M304 44 L315 55 L304 66"/>
+    </g>
+    <circle cx="52" cy="130" r="3.5" fill="#93c5fd" opacity="0.55"/>
+    <circle cx="300" cy="150" r="3" fill="#93c5fd" opacity="0.45"/>
+    <circle cx="318" cy="230" r="3.5" fill="#93c5fd" opacity="0.4"/>
+    <circle cx="20" cy="220" r="3" fill="#93c5fd" opacity="0.4"/>
+
+    <ellipse cx="170" cy="356" rx="132" ry="13" fill="#050b16" opacity="0.5"/>
+
+    <rect x="83" y="196" width="122" height="108" rx="34" fill="url(#chairGrad)"/>
+    <rect x="112" y="298" width="9" height="42" rx="3" fill="#16294a"/>
+    <rect x="167" y="298" width="9" height="42" rx="3" fill="#16294a"/>
+
+    <rect x="30" y="300" width="280" height="16" rx="6" fill="url(#deskGrad)"/>
+    <rect x="30" y="300" width="280" height="5" rx="2.5" fill="#3a6595" opacity="0.55"/>
+    <rect x="46" y="316" width="10" height="34" fill="#152a48"/>
+    <rect x="284" y="316" width="10" height="34" fill="#152a48"/>
+
+    <g transform="translate(52,148)">
+      <rect x="0" y="0" width="86" height="62" rx="6" fill="url(#monitorFrame)"/>
+      <rect x="6" y="6" width="74" height="50" rx="3" fill="url(#screenGrad)"/>
+      <rect x="12" y="14" width="30" height="4" rx="2" fill="#93c5fd" opacity="0.85"/>
+      <rect x="12" y="22" width="46" height="4" rx="2" fill="#5b8ac2" opacity="0.7"/>
+      <rect x="12" y="30" width="20" height="4" rx="2" fill="#5b8ac2" opacity="0.7"/>
+      <rect x="12" y="38" width="38" height="4" rx="2" fill="#93c5fd" opacity="0.6"/>
+      <rect x="12" y="46" width="26" height="4" rx="2" fill="#5b8ac2" opacity="0.5"/>
+      <rect x="38" y="62" width="10" height="9" fill="#16294a"/>
+      <rect x="24" y="71" width="38" height="6" rx="3" fill="#16294a"/>
+    </g>
+
+    <g transform="translate(150,128)">
+      <rect x="0" y="0" width="118" height="82" rx="7" fill="url(#monitorFrame)"/>
+      <rect x="7" y="7" width="104" height="68" rx="4" fill="url(#screenGrad)"/>
+      <rect x="15" y="17" width="34" height="5" rx="2.5" fill="#93c5fd"/>
+      <rect x="15" y="28" width="60" height="4" rx="2" fill="#5b8ac2" opacity="0.75"/>
+      <rect x="15" y="37" width="46" height="4" rx="2" fill="#5b8ac2" opacity="0.75"/>
+      <rect x="15" y="46" width="70" height="4" rx="2" fill="#93c5fd" opacity="0.65"/>
+      <rect x="15" y="55" width="30" height="4" rx="2" fill="#5b8ac2" opacity="0.6"/>
+      <rect x="15" y="64" width="52" height="4" rx="2" fill="#93c5fd" opacity="0.5"/>
+      <rect x="53" y="82" width="12" height="11" fill="#16294a"/>
+      <rect x="34" y="93" width="50" height="7" rx="3.5" fill="#16294a"/>
+    </g>
+
+    <g transform="translate(98,214)">
+      <path d="M6 92 C0 62 6 40 26 30 C40 23 56 23 70 30 C90 40 96 62 90 92 Z" fill="url(#hoodie)"/>
+      <path d="M26 30 C40 23 56 23 70 30 L64 48 C54 43 42 43 32 48 Z" fill="#16294a"/>
+      <path d="M20 52 C8 60 2 74 4 90 L17 90 C17 76 23 66 32 60 Z" fill="url(#hoodie)"/>
+      <path d="M76 52 C88 60 94 74 92 90 L79 90 C79 76 73 66 64 60 Z" fill="url(#hoodie)"/>
+      <circle cx="10" cy="90" r="6.5" fill="#dcae7f"/>
+      <circle cx="86" cy="90" r="6.5" fill="#dcae7f"/>
+      <rect x="38" y="16" width="18" height="16" rx="7" fill="#dcae7f"/>
+      <circle cx="47" cy="8" r="18" fill="#e8bd8c"/>
+      <path d="M28 8 C28 -9 66 -9 66 8 C66 3 63 -1 58 -3 C58 3 52 -6 47 -6 C42 -6 36 3 36 -3 C31 -1 28 3 28 8 Z" fill="#2b2b33"/>
+      <path d="M28 8 C27 14 28 20 31 24 C29 17 29 11 30 6 Z" fill="#2b2b33"/>
+      <path d="M66 8 C67 14 66 20 63 24 C65 17 65 11 64 6 Z" fill="#2b2b33"/>
+    </g>
+
+    <g transform="translate(40,262)">
+      <rect x="0" y="30" width="28" height="22" rx="4" fill="#274972"/>
+      <rect x="0" y="30" width="28" height="6" rx="3" fill="#325a86"/>
+      <path d="M14 30 C3 16 5 0 14 -8 C23 0 25 16 14 30 Z" fill="#5fb98c"/>
+      <path d="M14 30 C8 18 9 4 14 -2 C19 4 20 18 14 30 Z" fill="#7fd4a8"/>
+    </g>
+
+    <g transform="translate(96,300)">
+      <rect x="0" y="0" width="86" height="13" rx="4" fill="#16294a"/>
+      <rect x="4" y="3" width="78" height="7" rx="2" fill="#213f66" opacity="0.85"/>
+      <rect x="98" y="1" width="13" height="19" rx="6" fill="#16294a"/>
+    </g>
+
+    <g transform="translate(236,278)">
+      <ellipse cx="16" cy="34" rx="19" ry="3" fill="#050b16" opacity="0.35"/>
+      <path d="M4 8 h24 v16 a12 12 0 0 1 -24 0 Z" fill="#26476f"/>
+      <ellipse cx="16" cy="8" rx="12" ry="3" fill="#325a86"/>
+      <path d="M28 12 h6 a6 6 0 0 1 0 12 h-6 z" fill="none" stroke="#26476f" stroke-width="3.5"/>
+    </g>
+
+    <g transform="translate(268,270)">
+      <path d="M0 30 L38 30 L34 42 L4 42 Z" fill="#16294a"/>
+      <rect x="4" y="2" width="30" height="28" rx="2" fill="url(#monitorFrame)"/>
+      <rect x="7" y="5" width="24" height="22" rx="1.5" fill="url(#screenGrad)"/>
+    </g>
+  </g>
+</svg>

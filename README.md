@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Akshita%20Mahajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20AI%2FML&descAlignY=55&descSize=16&descColor=93c5fd)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Akshita%20Mahajan&fontSize=42&fontColor=93c5fd&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20AI%2FML&descAlignY=55&descSize=16&descColor=c9defc)
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=93C5FD&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+the+MERN+stack;Sharpening+DSA%2C+one+problem+at+a+time;Creator+of+BreastCare-AI+%40+IIT+Indore;Open+to+Internship+Opportunities" alt="Typing SVG" /></a>
 
@@ -39,7 +39,7 @@ const akshitaMahajan = {
 
 </td>
 <td width="35%" align="center">
-<img src="assets/coding-illustration.svg" width="260" height="300"/>
+<img src="assets/coding-illustration.svg" width="320" height="365"/>
 </td>
 </tr>
 </table>

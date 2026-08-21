@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="50%">
 
 ```typescript
 const akshitaMahajan = {
@@ -38,8 +38,8 @@ const akshitaMahajan = {
 ```
 
 </td>
-<td width="35%" align="center">
-<img src="assets/coding-illustration.svg" width="320" height="365"/>
+<td width="50%" align="center">
+<img src="assets/coding-illustration.svg" width="480" height="550"/>
 </td>
 </tr>
 </table>

@@ -145,8 +145,13 @@ Employee HRMS built to handle and streamline employee management within an organ
 
 ---
 
-> *"The best way to predict the future is to invent it."*
-> — Alan Kay
+<div align="center">
+
+***"Programs must be written for people to read, and only incidentally for machines to execute."***
+
+**— Harold Abelson**
+
+</div>
 
 ---
 

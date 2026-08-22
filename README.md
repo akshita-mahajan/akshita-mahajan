@@ -16,12 +16,7 @@
 
 ### 👩‍💻 Who I Am
 
-<table style="table-layout:fixed; width:100%;">
-<tr>
-<td width="50%" valign="middle" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-</td>
-<td width="50%" valign="middle">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
 
 ```typescript
 const akshitaMahajan = {
@@ -40,9 +35,7 @@ const akshitaMahajan = {
 };
 ```
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -129,6 +122,18 @@ Employee HRMS built to handle and streamline employee management within an organ
 
 ---
 
+### 🐍 Contributions Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshita-mahajan/akshita-mahajan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshita-mahajan/akshita-mahajan/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/akshita-mahajan/akshita-mahajan/output/github-snake.svg" />
+</picture>
+</div>
+
+---
+
 ### 🤝 Connect with Me
 
 <div align="center">
@@ -137,6 +142,11 @@ Employee HRMS built to handle and streamline employee management within an organ
 [![Email](https://img.shields.io/badge/Email-1e3a5f?style=flat-square&logo=gmail&logoColor=white)](mailto:mahajanakshita03@gmail.com)
 
 </div>
+
+---
+
+> *"The best way to predict the future is to invent it."*
+> — Alan Kay
 
 ---
 

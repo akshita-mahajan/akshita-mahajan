@@ -146,11 +146,7 @@ Employee HRMS built to handle and streamline employee management within an organ
 ---
 
 <div align="center">
-
-***"Programs must be written for people to read, and only incidentally for machines to execute."***
-
-**— Harold Abelson**
-
+<img src="assets/quote-card.svg" width="700"/>
 </div>
 
 ---

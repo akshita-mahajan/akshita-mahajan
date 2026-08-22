@@ -143,12 +143,8 @@ Employee HRMS built to handle and streamline employee management within an organ
 
 </div>
 
----
-
 <div align="center">
 <img src="assets/quote-card.svg" width="700"/>
 </div>
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a5f,60:274972,100:0f172a&height=120&section=footer&animation=fadeIn)

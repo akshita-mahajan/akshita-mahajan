@@ -1,0 +1,23 @@
+<svg width="820" height="200" viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b2438"/>
+      <stop offset="100%" stop-color="#141b2c"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="800" height="180" rx="18"
+        fill="url(#cardGrad)" stroke="#2c3f5e" stroke-width="1.5"/>
+
+  <text x="46" y="66" font-family="Georgia, serif" font-size="64"
+        fill="#3a5a86" opacity="0.6">&#8220;</text>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-style="italic"
+     font-size="21" fill="#dbe4f0" text-anchor="middle">
+    <text x="410" y="88">Programs must be written for people to read, and only</text>
+    <text x="410" y="120">incidentally for machines to execute.</text>
+  </g>
+
+  <text x="700" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#93c5fd" text-anchor="end">— Harold Abelson</text>
+</svg>

@@ -37,7 +37,8 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}
+        env:
+          GITHUB_TOKEN1: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push if changed
         run: |

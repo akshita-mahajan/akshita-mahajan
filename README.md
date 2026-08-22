@@ -87,8 +87,8 @@ Employee HRMS built to handle and streamline employee management within an organ
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshita-mahajan&show_icons=true&theme=nord&border_color=1e3a5f&title_color=1e3a5f&icon_color=1e3a5f&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshita-mahajan&layout=compact&theme=nord&border_color=1e3a5f&title_color=1e3a5f&text_color=c9d1d9" alt="Top Languages" height="165"/>
+  <img src="profile/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="profile/top-langs.svg" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
@@ -96,7 +96,7 @@ Employee HRMS built to handle and streamline employee management within an organ
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshita-mahajan&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.devomb.com/?username=akshita-mahajan&theme=nord&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">

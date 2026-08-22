@@ -16,9 +16,24 @@
 
 ### 👩‍💻 Who I Am
 
-<div align="center">
-<img src="assets/who-i-am.svg" width="100%"/>
-</div>
+[![Coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
+```typescript
+const akshitaMahajan = {
+  title: "CS Student",
+  stack: {
+    languages: ["Java", "C", "C++", "JavaScript"],
+    web: ["HTML", "CSS", "MERN Stack"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    deployment: ["Vercel"],
+    tools: ["GitHub", "Figma", "Canva"],
+  },
+  launchedProjects: ["BreastCare-AI", "HR Enterprise"],
+  currentlyLearning: ["Full Stack Development", "Data Structures & Algorithms"],
+  status: "Digitalizing healthcare & enterprise workflows, one repo at a time",
+  openTo: "Internship opportunities",
+};
+```
 
 ---
 
@@ -116,4 +131,4 @@ Employee HRMS built to handle and streamline employee management within an organ
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a5f,60:274972,100:0f172a&height=120&section=footer&animation=fadeIn)
